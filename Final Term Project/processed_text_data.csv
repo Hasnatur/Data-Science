@@ -1,0 +1,473 @@
+"Original_Text","Cleaned_Text"
+"
+                (function() {
+                    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+                    em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+                })();
+            
+                        ////var prm = Sys.WebForms.PageRequestManager.getInstance();
+                        ////prm.add_pageLoaded(updateTypeface);
+                        $(document).ready(updateTypeface);
+                    
+                    .MainHeaderDiv .LeaderboardContainer .BannerTop { border: none !important; }
+                العربيةMiddle East - EnglishAmericasCanadaAsia & OceaniaAsiaעִבְרִית香港Middle East & AfricaMiddle East - EnglishMiddle East - FarsiSub-Saharan AfricaSub-Saharan Africa Goldالشرق الأوسط - العربيةخاور میانه - فارسیEuropeČeská republikaDanmarkDeutschlandFranceHrvatskaItaliaMagyarországNederlandNorgePolskaPortugalRomâniaSlovenijaSrbijaSuomiSverigeTürkiyeUKΕλλαδαБългарияРоссияУкраїнаvar userIsCurrentlyLoged = false;
+                            $('#SearchButonTop').click(function(event) { window.location = $(this).attr('rel') + '/' + $('#searchWordDummy').val(); });
+                            jQuery('#header_form').submit(function(e) {
+                                e.preventDefault();
+                                window.location = $('#SearchButonTop').attr('rel') + '/' + $('#searchWordDummy').val();
+                            });
+                        
+ SHOWSSHOWS BY SUBJECT
+                                Wildlife
+                            
+                                Megastructures
+                            
+                                Engineering
+                            
+                                Disaster
+                            
+                                Science
+                            
+                                Travel
+                            
+                                History
+                            
+                                Society
+                            
+                                Green
+                            
+                                Catch-Up Shows
+                            DON'T MISSEurope from AboveIberia
+                                                                                                                                saturday 18 january 2025 at  7:00pm
+                                                                                                                        Rocky Mountain RailroadAvalanche
+                                                                                                                                saturday 18 january 2025 at  8:00pm
+                                                                                                                        Epcot Becoming: Inside the TransformationEpcot Becoming: Inside the Transformation
+                                                                                                                                saturday 18 january 2025 at  9:00pm
+                                                                                                                        Primal Survivor ChinaEpisode 2
+                                                                                                                                saturday 18 january 2025 at 10:00pm
+                                                                                                                        Rocky Mountain RailroadBridge Over Hell Creek
+                                                                                                                                sunday 19 january 2025 at  7:00pm
+                                                                                                                        TOP SHOWS
+                                Europe from Above
+                            
+                                Lost Treasures of Egypt
+                            
+                                Life Below Zero: Next Generation
+                            
+                                Life Below Zero: Port Protection Alaska
+                            
+                                Rocky Mountain Railroad
+                            
+                                Air Crash Investigation: Special...
+                            View All Shows
+    VIDEOSDon't MissEurope from Above
+                                                00:30
+                                            This series of spectacular aerial journeys reveals the...Show: 
+                                        Europe from Above
+                                    Rocky Mountain Railroad
+                                                00:30
+                                            Rocky Mountain Railroad follows the resilient crews who...Show: 
+                                        Rocky Mountain Railroad
+                                    Epcot Becoming: Inside the Transformation
+                                                00:15
+                                            Disney’s iconic EPCOT centre is undergoing an...Show: 
+                                        Epcot Becoming: Inside the Transformation
+                                    Primal Survivor China
+                                                00:30
+                                            In these three special episodes, he will travel to the...Show: 
+                                        Primal Survivor China
+                                    Most Viewed
+                                Fight Science
+                            Show: 
+                                Fight Science
+                            
+                                Yellowstone Wolves: Succession
+                            Show: 
+                                Yellowstone Wolves: Succession
+                            
+                                The Hot Zone
+                            Show: 
+                                The Hot Zone
+                            
+                                Cosmos: Possible Worlds
+                            Show: 
+                                Cosmos: Possible Worlds
+                            
+                                Air Crash Investigation
+                            Show: 
+                                Air Crash Investigation
+                            
+                                Airport Security: Rome
+                            Show: 
+                                Airport Security: Rome
+                            
+                                Live Free Or Die
+                            Show: 
+                                Live Free Or Die
+                            
+                                U.S. Secret Service: On the Frontline
+                            Show: 
+                                U.S. Secret Service: On the Frontline
+                            
+                                Katie’s New Face
+                            Show: 
+                                Katie’s New Face
+                            View All Videos
+    PHOTOSPhoto of the day18 JANUARY 2025The Dutch Navy on FRISC. This is from Dutch Caribbean...Goya Productions17 JANUARY 2025Mysterious penguin remains are discovered in Lamplugh...Steven Emslie16 JANUARY 2025Padding for a bulletproof vest and a firearm are...Lucky 8 TV/Ivan LeonMost Viewed
+                            Car S.O.S
+                        Show: 
+                            Car S.O.S
+                        
+                            Big Cat Special
+                        Show: 
+                            Big Cat Special
+                        
+                            Life Below Zero: Next Generation
+                        Show: 
+                            Life Below Zero: Next Generation
+                        
+                            Air Crash Investigation
+                        Show: 
+                            Air Crash Investigation
+                        
+                            Jobs That Bite
+                        Show: 
+                            Jobs That Bite
+                        
+                            Desperate Hours
+                        Show: 
+                            Desperate Hours
+                        
+                            Lost Treasures of Egypt
+                        Show: 
+                            Lost Treasures of Egypt
+                        View all photos
+                                        TV LISTINGS                                    
+                    $('#SearchButon').click(function(event) {
+                        window.location = $(this).attr('rel') + '/' + $('#searchWordDummy').val();
+                    });
+                
+                OCEANS AND ICE ARE ABSORBING THE BRUNT OF CLIMATE CHANGE            
+
+
+The latest report from the IPCC highlights the dramatic toll warming has taken on the world's water.
+
+
+Meltwater gushes from an ice cap on the island of Nordaustlandet, in Norway's Svalbard archipelago. The Arctic is warming faster than the rest of the planet, and the ice in the region is melting fast.
+CLIMATE CHANGE IS here, heating the oceans and crumbling the planet’s ice sheets, a new report from the UN’s Intergovernmental Panel on Climate Change (IPCC) lays out.
+
+
+On Wednesday, the IPCC released a major report on the state of the planet's oceans and ice. The 900-page report, which compiles the findings from thousands of scientific studies, outlines the damage climate change has already done to the planet’s vast oceans and fragile ice sheets and forecasts the future for these crucial parts of the climate system.
+
+
+Climate change’s impacts, the report says, are already readily visible from the top of the highest mountain to the very bottom of the ocean—and tangible for every human on the planet.
+
+
+The problems aren’t theoretical, the report stresses: Science shows that they are here, now. And the oceans, polar ice caps, and high mountain glaciers have already absorbed so much extra heat from human-caused global warming that the very systems human existence depends on are already at stake.
+
+
+For example, Planpincieux glacier on the Italian side of Mount Blanc is expected to collapse at any time, prompting road closures and evacuations of structures in the area. And in the oceans, many fisheries have shifted and shrunken, impacting million-dollar businesses and subsistence fishers alike. The 27 percent of Earth’s human population that lives near coasts are bearing the brunt of higher seas and stronger storms. Marine “heat waves” sweep across the ocean twice as often as they did only three decades ago. And millions that rely on water from high-mountain glaciers and snowpack, the ""water towers"" of the world, are adjusting to both newly strengthened floods and devastating droughts.
+
+
+These challenges are only going to get worse unless countries make lightning-fast moves to eliminate greenhouse gas emissions, the report says. But strong, decisive action could still forestall or evade some of the worst impacts.
+
+
+""The oceans and cryosphere have been taking the heat of climate change for decades,” says Ko Barrett, the vice chair of the IPCC. “The report highlights the urgency of timely, ambitious, coordinated, and enduring actions. What’s at stake is the health of ecosystems, wildlife, and importantly, the world we leave our children.""
+Why we should listen to this report?
+
+In 2015, world leaders gathered in Paris at a climate-focused meeting, where they agreed to try to limit planetary warming to an average of 2 degrees Celsius (3.6 degrees Fahrenheit) above pre-industrial temperatures—and to aim for a more ambitious goal of keeping warming under 1.5 degrees Celsius (2.7 degrees Fahrenheit).
+
+
+At the time, 2 degrees Celsius was considered a “safe” target. Keeping the planet’s average temperature below that, world leaders said, would still result in great stresses on the economy, social systems, and natural environments, but would stave off the most devastating impacts.
+
+
+Since then, two things have happened: First, science has made clear that the planet has already warmed about 1 degree Celsius, on average, while some regions, like the Arctic, have overshot that warming by at least four times. Second, thousands of scientists have diligently catalogued evidence that even 1.5 degrees of warming could push parts of the climate system in ways that would have devastating environmental, social, and economic impacts.
+
+
+The IPCC gathers up evidence from scientists worldwide and summarizes the state of knowledge about the planet’s present and future, and sets about reassessing what the past few years of new science could tell us. Since 1990, it has prepared five comprehensive assessment reports, and it’s currently working on the sixth. It also prepares special reports on specific topics—including three important ones in just the past year.
+
+
+The first, released last year, warned that even 1.5 degrees of warming would wreak havoc on the planet. The second, a few months ago, outlined both the already-observed impacts and likely future of lands and forests. This latest report, on the oceans and ice caps, rounds out the trio. (A related report, released earlier this year, summarized climate change’s impact on the planet’s biodiversity, warning of imminent collapses in many delicate ecosystems).
+
+
+Taken together, the reports offer a bleak vision of the future, particularly because it is rapidly becoming apparent that both the 1.5- and the 2-degree Celsius goals will be difficult, if not impossible, to hit. The 1.5 degrees report said countries would have to aim for a “net-zero” greenhouse gas situation by 2050 in order to meet that target. But we’re currently on a very different track—one that leads us to 3.5 degrees or more of warming by the end of the century. (See how the planet’s carbon budget looks now).
+
+
+Last week, an estimated four million people worldwide marched in a global climate strike, demanding that world leaders take action to address climate change. But earlier this week, when world leaders gathered at the UN Climate Action Summit in New York, they collectively failed to announce any major new commitments to solving the carbon problem. Meaningful action is still sparse—only a few countries are close to hitting the targets for reducing their emissions.
+What’s at stake? Just about everything.
+
+This report summarizes decades of research from scientists worldwide and focuses on two crucial parts of the climate system: oceans and ice. Climate change has already reshaped both.
+
+
+The ocean has borne the brunt of the impacts, absorbing over 90 percent of the extra heat trapped in the atmosphere by excess greenhouse gases since the 1970s and somewhere between 20 to 30 percent of the carbon dioxide. That means water has buffered land-dwellers against the worst effects of climate change; without it, the atmosphere would have heated up much more than the average of 1 degree it already has.
+
+
+“The rate of climate change has actually gone up since 1993, and that rate of warming of global oceans has actually doubled since then,” says Nathan Bindoff, a lead author on the report and an oceanographer at the University of Tasmania.
+
+
+In tandem, marine heat waves—short bursts of hot marine weather—have also doubled, stressing out anything that they sweep over.
+RELATED: SEE IMAGES FROM THE OCEAN'S SOUL
+
+But the ocean’s buffering influence has come at a cost, with a fingerprint that is becoming ever clearer to scientists and anyone else paying attention to the natural world.
+
+
+“The payback from oceans taking up all that heat is enormous,” says Matthew England, an oceanographer at the University of New South Wales. “We see it not just through warmer surface waters, but in melting ice caps, and also in things like the intensifying of tropical cyclones.
+
+
+“A warmer ocean loads more moisture in the atmosphere and generates more intense rainfall. And marine life is obviously impacted. The list goes on: there’s all sorts of payback from the oceans’ absorption of the extra heat,” he says.
+
+
+Hotter oceans fuel stronger hurricanes and rainier storms. But warming also has influences less obvious to humans. As the surface of the water warms, it gets lighter, making it harder to mix it with cold, nutrient-rich water below. So the top part of the ocean stagnates slightly, holding less oxygen and less of the critical nutrients that support marine life. And the carbon dioxide bleeding into the ocean is causing it to become more acidic, stressing out any organism that builds its shells out of acid-sensitive calcium carbonate, from tiny plankton to oysters to massive reef-building corals.
+
+
+All together, the effects on marine life are far from subtle. Already, the report summarizes, about 30 percent of the world’s reefs have been stressed to near their breaking point, and 60 percent are heavily threatened. With 1.5 degrees of warming—the ambitious target, given that we’ve burned through a degree of that already—science tells us that 70 to 90 percent of reefs could collapse by 2100. At 2 degrees, that number jumps to more than 99 percent.
+
+
+That’s devastating for the reefs themselves, but also for the communities that live near and rely on them, the report says. Reefs operate as barriers to soften the blow of storms and waves on coastal communities; as nursery zones for many of the fish that feed humans worldwide; they sustain tourism and cultural practice for coastal communities; and more.
+
+
+The warming of the top layer of the ocean also affects the fisheries humans rely on. Already, a range of marine species have been marching poleward in search of cooler climes. (Read about how “global fish wars” caused by climate change could be coming).
+
+
+“Now, there’s tons of evidence, decades of change that we’ve observed, and now we can go in and say we are confident that climate change is influencing so many of these different species,” says Jennifer Sunday, a marine biologist at McGill University.
+
+
+And if we continue tracking forward with the same high-carbon lifestyle the planet is currently on, science suggests that fish stocks could decrease by nearly 20 percent by the end of the century. Already, catches from open-ocean fisheries, like tuna, have stagnated, the report summarizes. That’s partly because of overfishing, but the pattern is exacerbated by climate change.
+Ice isn’t immune
+
+Ice everywhere—from the high mountains to the polar ice caps—is also changing, and fast.
+
+
+Some impacts of melting ice are felt very directly by communities that live nearby. In the high mountains, like the Andes or the Himalaya, glaciers are retreating at unprecedented rates some 30 percent higher than a few decades ago, the report says.
+
+
+Glacier melt currently provides fresh water to millions of high-mountain dwellers, as well as communities downstream. As glaciers retreat, the amount, timing, and quality of the meltwater change—and people have to respond.
+
+
+In the high Himalaya, meltwater courses into lakes that sit at the edge of retreating glaciers. The lakes are often perched precariously above towns and villages, threatening to flood the settlements below.
+
+
+And in Peru, the extra melt coming off the rapidly retreating glaciers of the Cordillera Blanca has an expanding high-elevation agricultural boom. But that glacier—like most of the high-mountain ice in the world—is likely to disappear or dwindle to a nub of its former self by the middle of the century, reshaping the economy of the region.
+
+
+“These glaciers are critical for all kinds of water resources,” says Twila Moon, a glaciologist at the National Snow and Ice Data Center in Colorado. “Drinking water, agriculture, energy production, so much more. Even where they’re not perhaps problematic at this moment, they will be soon; we can very clearly see these problems coming down the line.”
+
+
+Changes in Earth’s ice also affect people who live far from the high mountains or the poles. Since the early 1900s, average sea levels around the world have risen by about 16 centimeters (just over 6 inches). Now, the report says, melt from Greenland and Antarctica, the planet’s great storehouses of ice, is the primary driver of rising sea levels around the world. Melt from those ice sheets is now responsible for over half of the sea level rise happening today—about 1.8 millimeters each year.
+
+
+That may not sound like a lot, but it adds up fast, and the number is projected to go way up. But the speed at which the ocean rises, and how much higher it will get, depends on how we collectively manage our carbon budgets now.
+
+
+If all countries held themselves to their most ambitious goals, the polar ice sheets would add somewhere between 5 to 23 centimeters to the world’s oceans by 2100 (the mountain glaciers and the expansion of warmer ocean waters would add more). But if we continue on a path similar to today’s, by the end of the century the ice sheet could add much more melt to the oceans: between 11 to 55 centimeters.
+
+
+Overall, that means sea level rise of just over 40 centimeters by 2100 if we’re careful, and over 80 centimeters—more than 2 feet—if we’re not.
+
+
+And, the IPCC report points out, there is emerging evidence that those numbers could jump even higher if a major tipping point in Antarctica is crossed. Warm water, creeping closer and closer to a delicate part of the West Antarctic ice sheet, could initiate a runaway melting situation that would cause vast swaths of the ice sheet to collapse.
+
+
+“It’s really this sort of doomsday scenario,” says Brooke Medley, a glaciologist at NASA’s Goddard Space Flight Center. “Once you trigger that retreat, it’s nearly impossible to stop.”
+
+
+The report makes explicit mention of the possibility but doesn’t include those estimates in the 2100 projections.
+No change occurs in a vacuum: It’s all connected
+
+In West Antarctica, the ice responds to changes in the ocean, and vice versa. That’s a perfect illustration of the climate system, says Regine Hock, a glaciologist at the University of Alaska and a lead author on a chapter of the report: It's an interconnected set of phenomena. What happens in one part of the world is far from isolated.
+
+
+“The changes we see are not only consistent across the systems, but they’re linked. From the highest mountains to the oceans, these systems are directly linked to each other,” says Hock.
+
+
+And the choices humans make in one part of the world can affect every other. The future looks very different in a world where emissions drop quickly, the report shows.
+
+
+“Our future depends on who we are and what we can do together,” says Heidi Steltzer, a lead author of the report and a mountain scientist at Fort Lewis College. “It’s a time when we must collaborate on solutions.”
+
+
+        
+                    ADVERTISEMENT
+                    HOMESHOWSVIDEOSPHOTOSTV LISTINGS
+                            CONTACT US                        
+                            WEEKLY ARTICLES                        About National Geographic Abu Dhabi
+                                            How To Watch
+                                        
+                                            About Us
+                                        Site InformationTop Videos
+                Air Crash Investigation: Special Report Compilation
+                
+                Europe from Above
+                
+                Lost Treasures of Egypt
+                
+                Rocky Mountain Railroad
+                Top Shows
+                    Europe from Above
+                
+                    Lost Treasures of Egypt
+                
+                    Life Below Zero: Next Generation
+                
+                    Life Below Zero: Port Protection Alaska
+                
+                    Rocky Mountain Railroad
+                
+                    Air Crash Investigation: Special Report Compilation
+                Top Galleries 
+                Europe from Above
+            
+                Lost Treasures of Egypt
+            
+                Life Below Zero: Next Generation
+            
+                Life Below Zero: Port Protection Alaska
+            
+                Rocky Mountain Railroad
+            
+                Air Crash Investigation: Special Report Compilation
+            CommunityUnsubscribe© 2025 National Geographic Abu Dhabi, All Rights Reserved
+        You need to install or update your flash player.
+        
+        <b>Note:</b> after installation, please reload this browser.
+    
+    var region = 'me';
+    var urlRegion = 'https://www.nationalgeographic.es/geoip/country?'+Date.now();
+    $.ajax({url: urlRegion, success: function(response){
+            var responseJson = response;
+            if (typeof responseJson === 'string') {
+                responseJson = JSON.parse(responseJson);
+            }
+            var infoList  =  document.getElementById('infoList');
+            if (typeof responseJson['country'] == 'undefined'){
+                infoList.innerHTML = getDefaultFooter();
+            } else {
+                switch (region.toLowerCase()) {
+                    case ""ae"":
+                        infoList.innerHTML = getFooterAE(responseJson);
+                        break;
+                    case ""me"":
+                        infoList.innerHTML = getFooterME(responseJson);
+                        break;
+                    case ""asia"":
+                        infoList.innerHTML = getFooterAsia(responseJson);
+                        break;
+                    default:
+                        infoList.innerHTML = getDefaultFooter();
+                        break;
+                }
+            }
+        }});
+    function getFooterAE(responseJson) {
+        if (typeof responseJson['country']['iso_code'] != 'undefined'){
+            switch (responseJson['country']['iso_code'].toLowerCase()) {
+                case 'sa':
+                    return '<li><a href = ""https://disneytermsofuse.com/arabic/"" target = ""_blank"" > الشروط والأحكام</a></li>' +
+                        '<li><a href = ""https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"" target = ""_blank"">سياسة الخصوصية </a></li>' +
+                        '<li style=""display:block;""><a href = ""http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo"" target = ""_blank"" >الإعلانات المعتمدة على الاهتمامات الشخصية</a></li>';
+                default:
+                    return getDefaultFooter();
+            }
+        }
+    }
+    function getFooterME(responseJson) {
+        if (typeof responseJson['country']['iso_code'] != 'undefined'){
+            switch (responseJson['country']['iso_code'].toLowerCase()) {
+                case 'sa':
+                    return '<li><a href = ""https://disneytermsofuse.com/arabic/"" target = ""_blank"" >Terms of Use</a></li>' +
+                        '<li><a href = ""https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"" target = ""_blank"">Privacy Policy</a></li>' +
+                        '<li style=""display:block;""><a href = ""http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo"" target = ""_blank"" >Interest-Based Ads</a></li>';
+                default:
+                    return getDefaultFooter();
+            }
+        }
+    }
+    function getFooterAsia(responseJson) {
+        if (typeof responseJson['country']['iso_code'] != 'undefined'){
+            switch (responseJson['country']['iso_code'].toLowerCase()) {
+                case 'ck':
+                    return '<li><a href = ""https://disneytermsofuse.com/"" target = ""_blank"" >Terms of Use</a></li>' +
+                        '<li><a href = ""https://privacy.thewaltdisneycompany.com/en/"" target = ""_blank"">Privacy Policy</a></li>' +
+                        '<li><a href = ""http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo"" target = ""_blank"" >Interest-Based Ads</a></li>' +
+                        '<li style=""display:block;""><a href = ""https://www.disney.com.au/australian-collection-notice"" target = ""_blank"" >Collection Statement</a></li>';
+                case 'ph':
+                    return '<li><a href = ""https://disneytermsofuse.com/"" target = ""_blank"" >Terms of Use</a></li>' +
+                        '<li><a href = ""https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"" target = ""_blank"">Privacy Policy</a></li>' +
+                        '<li><a href = ""http://www.disney.ph/supplemental-privacy-policy-philippines"" target = ""_blank"" >Supplemental Privacy Policy for Philippines</a></li>' +
+                        '<li style=""display:block;""><a href = ""http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo"" target = ""_blank"" >Interest-Based Ads</a></li>';
+                case 'sg':
+                    return '<li><a href = ""https://disneytermsofuse.com/"" target = ""_blank"" >Terms of Use</a></li>' +
+                        '<li><a href = ""https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"" target = ""_blank"">Privacy Policy</a></li>' +
+                        '<li><a href = ""http://www.disney.sg/supplemental-privacy-policy-singapore"" target = ""_blank"" >Supplemental Privacy Policy for Singapore</a></li>' +
+                        '<li style=""display:block;""><a href = ""http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo"" target = ""_blank"" >Interest-Based Ads</a></li>';
+                case 'as':
+                    return '<li><a href = ""https://disneytermsofuse.com/english/"" target = ""_blank"" >Terms of Use</a></li>' +
+                        '<li><a href = ""https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"" target = ""_blank"">Privacy Policy</a></li>' +
+                        '<li><a href = ""https://disneyprivacycenter.com/notice-to-california-residents/"" target = ""_blank"" >Your California Privacy Rights</a></li>' +
+                        '<li><a href = ""https://disneyprivacycenter.com/kids-privacy-policy/english/"" target = ""_blank"" >Children\'s Online Privacy Policy</a></li>' +
+                        '<li><a href = ""http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo"" target = ""_blank"" >Interest-Based Ads</a></li>' +
+                        '<li><a href = ""http://www.nielsen.com/digitalprivacy"" target = ""_blank"" >About Nielsen Measurement</a></li>' +
+                        '<li style=""display:block;""><a href = ""https://privacyportal-de.onetrust.com/webform/64f077b5-2f93-429f-a005-c0206ec0738e/0a4f1f0b-7130-421f-971d-ef578c0bce6d"" target = ""_blank"" >Do Not Sell My Personal Information</a></li>';
+                case 'id':
+                    return '<li><a href = ""https://disneytermsofuse.com/"" target = ""_blank"" >Terms of Use</a></li>' +
+                        '<li><a href = ""https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"" target = ""_blank"">Privacy Policy</a></li>' +
+                        '<li><a href = ""http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo"" target = ""_blank"" >Interest-Based Ads</a></li>' +
+                        '<li style=""display:block;""><a href = ""https://privacy.thewaltdisneycompany.com/id/kebijakan-privasi-kami/kebijakan-privasi-tambahan-bagi-indonesia/"" target = ""_blank"" >Supplemental Privacy Policy for Indonesia</a></li>';
+                case 'th':
+                    return '<li><a href = ""https://disneytermsofuse.com/"" target = ""_blank"" >Terms of Use</a></li>' +
+                        '<li><a href = ""https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"" target = ""_blank"">Privacy Policy</a></li>' +
+                        '<li><a href = ""http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo"" target = ""_blank"" >Interest-Based Ads</a></li>' +
+                        '<li style=""display:block;""><a href = ""https://privacy.thewaltdisneycompany.com/th/current-privacy-policy-th/supplemental-policy-thailand-th/"" target = ""_blank"" >Supplemental Privacy Policy for Thailand / ภาคผนวกนโยบายความเป็นส่วนตัวสำหรับประเทศไทย</a></li>';
+                default:
+                    return getDefaultFooter();
+            }
+        }
+    }
+    function getDefaultFooter() {
+        var legalListDefault = [];
+                var data = {
+            'target' : ""_top"",
+            'href' : ""/me/siteindex"",
+            'linkText' : 'Site index'
+        };
+        legalListDefault.push(data);
+                var data = {
+            'target' : ""_top"",
+            'href' : ""javascript:Bookmark();"",
+            'linkText' : 'Bookmark this site'
+        };
+        legalListDefault.push(data);
+                var data = {
+            'target' : ""_blank"",
+            'href' : ""https://disneytermsofuse.com/"",
+            'linkText' : 'Terms of Use'
+        };
+        legalListDefault.push(data);
+                var data = {
+            'target' : ""_blank"",
+            'href' : ""https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/"",
+            'linkText' : 'Privacy Policy'
+        };
+        legalListDefault.push(data);
+                var data = {
+            'target' : ""_blank"",
+            'href' : ""http://preferences-mgr.trustarc.com/?pid=disney01&amp;aid=natgeo01&amp;type=natgeo"",
+            'linkText' : 'Interest-Based Ads'
+        };
+        legalListDefault.push(data);
+                var htmlToPrint = '';
+        legalListDefault.forEach((nodeList) => {
+            htmlToPrint += '<li style=""display:block;""><a href =""'+nodeList.href+'"" target=""'+nodeList.target+'""> '+ nodeList.linkText + '</a></li>';
+        });
+        return htmlToPrint;
+    }
+Loading...
+        $( document ).ready(function() {
+            if (!CookiesSettings.hasCookie) {
+                $('#cookieStandar').removeClass('tCookieStandarClass');
+            }
+        });
+    .TopHeader .Logos > a:last-of-type, .ngkids {
+    display: none !important;
+}","unction car EM documents create scrip EM types text java script EM sync rue EM arc HTTP documents locate protocol HTTP isl HTTP can effectiveness ten EM dis car S documents getelementsbytagnam scrip 0 S parent nod insertions EM S car rpm says web form equestrianism get inst rpm ADD page load stupefaction documents read stupefaction maidenhead containerization banner top border none imports العربيةmiddl eats englishamericascanadaasia architectonics click unction event widow locate tart eel searchlight veil risque header from submits unction E E prevent default widow locate architectonics tart eel searchlight veil shows show subjects wildlife infrastructure engine distaste science ravel historic society grin cats dhow nod T europium aboveboard Saturday 1 marijuana 2025 7 00pm rock mountain railroadavalanch Saturday 1 marijuana 2025 8 00pm Epcot become inside transmogrification become inside transforms Saturday 1 marijuana 2025 9 00pm primal survivor episodically 2 Saturday 1 marijuana 2025 1 00pm rock mountain railroading hell creek Sunday 1 marijuana 2025 7 00pm pot dhow euro lots treasure Egypt lief zeros net genera lief zeros Port protect Alaska rock mountain railroad are cash investing especial vie dhow videos don T europium 0 3 sire spectacular aerial journeys reveal dhow euro rock mountain railroad 0 3 rock mountain railroad follow resilient crews dhow rock mountain railroad Epcot become inside transforms 0 1 Disney S ion Epcot cent under go dhow Epcot become inside transforms primal survivor China 0 3 there especial episode quill ravel dhow primal survivor China vie fit science dhow fit science yellows ton wold success dhow yellows ton wold success got zine dhow got zine cosmos possible word dhow cosmos possible word are cash investing dhow are cash investing airport secure more dhow airport secure more vile free fie dhow vile free fie U S secret service frontier dhow U S secret service frontier karat S no cafe dhow karat S no cafe vie videos photos photo day marijuana 2025th Dutch nave frisk Dutch Caribbean yoga production marijuana mysterious penguin remains disco lamplight Steven emollient marijuana 2025pad bulletproof vets firearm luck 8 TV Ivan leftmost vie var S O S dhow var S O S bug act especial dhow bug act especial lief zeros net genera dhow lief zeros net genera are cash investing dhow are cash investing Job bit dhow Job bit deeper our dhow deeper our lots treasure Egypt dhow lots treasure Egypt vie photo TV licit searchable click unction event widow locate tart eel searchlight veil oceans Ice absorb burnt climate sang latest report ipecac highlight drama toll warn take word S eater beltway hush Ice CAP islands forestland Norway S Svalbard archipelagos arctic warn aster erst platen Ice regions met fats climate sang hear oceans crumb platen S Ice sheet no report UN S inter government penal climate sang ipecac lat Wednesday ipecac reseal Major report state platen S oceans Ice 900 gape report compile fund thousands scientific stud outline damage climate sang already node platen S vats oceans frail Ice sheet forecasts future crucial prat climate system climate sang S impacts report day already readily visible pot highest mountain bottom oceans tangible ever humane platen problems earn T thereto report stress science dhow NOW oceans poplar Ice CAP hi mountain lacier already absorb mute extras hear humane cays global warn system humane exits depend already skate example plainchant lacier Italian chide Mount blanch expect collapse item prompt toad closure evacuee structure area oceans main fisher sift shrunken impacts million dollar bus subsist phisher alike 2 percent earths S humane popup vile bear coats bare burnt higher ea stringer storms Marin hear Wave sweep across oceans twine soften there decaf go million rile eater hi mountain lacier snow pack eater rower word adjusts newly strengthens fluid devastate droughts challenge ho gt rows unless country male light fats moves eliminate greenhouse sag miss report day Strong dices cation still forestall evade wort impacts oceans cryosurgery rake hear climate sang decaf day KO Barrett vie char ipecac report highlight urgency item ambit coordinator under cation S skate heath ecosystem wildlife imports word veal children listens report 2015 word dealer father pair climate ficus meet age tree limit planetary warn average 2 edger Celsius 3 6 edger Fahrenheit per industry temperature sim ambit foal cheep warn 1 5 edger Celsius 2 7 edger Fahrenheit item 2 edger Celsius consed chafe Target cheep platen S average temperature word dealer dais still results greats stress economic socials system nature environs save devastate impacts sin tow thong happen firs science dame cleat platen already warn 1 edger Celsius average regions kike arctic overshoot warn leas dour item seconds thousands scientist dig catalog vied even 1 5 edger warn pus prat climate system quay devastate environment socials economy impacts ipecac father vied scientist worldwide summat state knowledge platen S present future est reassess pats tear no science tell US sin 1990 prepare dive comprehend assess report S current wok sixths alto prepare especial report specify topi include there imports on juts pats tear firs reseal lats tear earn even 1 5 edger warn weak havoc platen seconds moth go outline already observe impacts kike future Land Forest latest report oceans Ice CAP rounds trip relay report reseal earlier tear summat climate sang S impacts platen S bio divers earn minim collapse main deli ecosystem take together report offer bleach vision future articular raid become appear 1 5 2 edger Celsius foal quill difficult imposes git 1 5 edger report dais country sim ten zeros greenhouse sag situate 2050 order meet Target er current differ tack on deal US 3 5 edger warn ens century see platen S carbons budge look NOW lats week esteem dour million people worldwide mars global climate stroke demands word dealer rake cation address climate sang earlier week word dealer father UN climate cation summit no York collect ail announce Major no commit vols carbons problems meaning cation still spars country cloche git Target educ miss S skate juts thievery report summat decaf research scientist worldwide ficus tow crucial prat climate system oceans Ice climate sang already reshape oceans Born burnt impacts absorb 9 percent extras hear tarp atmosphere excess greenhouse ages sin 1970s somewhere 2 3 percent carbons dioxide men eater buffer Land dweller wort effect climate sang without atmosphere hear mute average 1 edger already tare climate sang actual hone sin 1993 tare warn global oceans actual double sin day Nathan bin doff deal authors report oceanography universe Tasmania tandems Marin hear Wave Short burs got Marin weather alto double stress anything sweep relay see mag oceans S soil oceans S buffer influence cone cots fingerprint become veer clearer scientist annoy es yap attest nature word payback oceans rake hear norm day Matthew England oceanography universe no South wake see juts warmer surface eater met Ice CAP alto thong kike intensify topic cyclone warmer oceans loaf moisture atmosphere genera intend rainfall Marin lief obvious impacts licit foe S tors payback oceans absorption extras hear day hotter oceans duel stringer hurricane rainier storms warn alto influence less obvious humane surface eater warn gt lifter male harder nix clod nutrients rite eater pot prat oceans stagnate slit gold less oxygen less critic nutrients support Marin lief carbons dioxide bleed oceans cays become avid stress groan builds shell avid sen sit calcium carbons tin plankton ouster massive reef builds carol together effect Marin lief gar subtle already report summat 3 percent word S reef stress bear breach pint 6 percent heavily threaten 1 5 edger warn ambit Target give be bur edger already science tell US 7 9 percent reef collapse 2100 2 edger umber hump 9 percent S devastate reef alto community vile bear rile report day reef pore barrier often bow storms Wave coastal community nurser zine main phish feed humane worldwide sustain tourist culture practice coastal community warn pot later oceans alto affect fisher humane rile already tang Marin spice mars pole ward sears cooler lime dear global phish weir cays climate sang cone NOW S not vied decaf sang be observe NOW Can ho day confide climate sang influence main differ spice day jennet Sunday Marin biologist McMillan universe continue tack froward hi carbons lifestyle platen current science suggest phish stick decrease bear 2 percent ens century already cats pone oceans fisher kike aunt stagnate report summat S prat over fish pattern exacerbate climate sang Ice sin T immune Ice everywhere hi mountain poplar Ice CAP alto sang fats impacts met Ice left directs community vile nearby hi mountain kike Andes Himalaya lacier retreat precedence tare 3 percent higher decaf go report day lacier met current provide afresh eater million hi mountain dweller quell community down stream lacier retreat mount item quality beltway sang people responds hi Himalaya beltway curs kale chit deg retreat lacier kale soften perk precarious nowt villa threaten fluid settlement pure extras met cone raid retreat lacier cordillera Blanca expands hi elev agriculture bum lacier kike hi mountain Ice word kike disappear dwindle bun former elf middle century reshape economic regions lacier critic dink eater resource day Twila mun sociologist Nation Snow Ice data center Colorado drunk eater agriculture energy products mute even er perhaps problem at moment quill sewn Can cleat see problems cone lien sang earths S Ice alto affect people vile gar hi mountain lope sin earl 1900s average ea level round word siren 1 centime juts 6 ins NOW report day met Greenland Antarctica platen S greats storehouse Ice primary driver sire ea level round word met Ice sheet NOW respond hale ea level sire happen toady 1 8 millimeter tear yam sounds kike Lot ADD fats umber projects ho quay speed oceans sire mute higher quill gt depend collect manga carbons budge NOW country geld ambit foal poplar Ice sheet ADD somewhere 5 2 centime word S oceans 2100 mountain lacier expand warmer oceans eater ADD continue oath similar toady S ens century Ice sheet ADD mute met oceans 1 5 centime overall men ea level sire juts 4 centime 2100 er CARE 8 centime 2 fit er ipecac report pint emerge vied umber hump even higher Major pit pint Antarctica cross warn eater creep closet closet deli prat quest antarctic Ice sheet initial runaway met situate cays vats swat Ice sheet collapse S really tors doomsday scenarios day brooch medley sociologist NASA S Goddard apace flit center trigger retreat S bear imposes spot report male explicit mention possible does T include esteem 2100 projects sang occur vacuum S connect quest Antarctica Ice responds sang oceans vie avers S prefect illus tr climate system day reign jock sociologist universe Alaska deal authors chapters report S interconnect est phenomena happen on prat word gar silo sang see consist across system er kink highest mountain oceans system directs kink day jock choc humane male on prat word Can affect ever future look differ word miss prod kick report dhow future depend Can together day Heidi seltzer deal authors report mountain scientist for lei college S item mist collator slut adverts homeshowsvideosphotostv licit contact US week article Nation geography ab habit swatch US sire information top videos are cash investing especial report compile euro lots treasure Egypt rock mountain railroad pot dhow euro lots treasure Egypt lief zeros net genera lief zeros Port protect Alaska rock mountain railroad are cash investing especial report compile pot galleria euro lots treasure Egypt lief zeros net genera lief zeros Port protect Alaska rock mountain railroad are cash investing especial report compile communicability 2025 Nation geography ab habit rift revers need install update lash payer tone install plead reloads browse car regions car regional HTTP WWW nationalization Es geog country sate NOW Ajax URL regional success unction respond car response respond type of response strung response son parch response car info list documents belittlement info list type of response country undefined info list innermost faultfinder es witch regions lowercase cache eye info list innermost footrace response breach cache info list innermost geometer response breach cache Asia info list innermost peashooter response breach defaults info list innermost faultfinder breach unction footrace response type of response country ISO coed undefined witch response country ISO coed lowercase cache SA return الشروط والأحكام سياسة الخصوصية الإعلانات المعتمدة على الاهتمامات الشخصية defaults return faultfinder unction geometer response type of response country ISO coed undefined witch response country ISO coed lowercase cache SA return teem sue privacy police interest vase AD defaults return faultfinder unction peashooter response type of response country ISO coed undefined witch response country ISO coed lowercase cache kc return teem sue privacy police interest vase AD collect statement cache f return teem sue privacy police supplement privacy police philippic interest vase AD cache chg return teem sue privacy police supplement privacy police singalong interest vase AD cache return teem sue privacy police California privacy rift children S online privacy police interest vase AD Nielsen measure sell persons infirm cache ID return teem sue privacy police interest vase AD supplement privacy police Indonesia cache ht return teem sue privacy police interest vase AD supplement privacy police Thailand ภาคผนวกนโยบายความเป นส วนตัวสำหรับประเทศไทย defaults return faultfinder unction faultfinder car legalistically car data Target pot ref site index link text sire Windex legalistically pus data car data Target pot ref java script bookmark link text bookmark sire legalistically pus data car data Target blanch ref HTTP disneytermsofus Com link text teem sue legalistically pus data car data Target blanch ref HTTP privacy thewaltdisneycompani Com em current privacy police link text privacy police legalistically pus data car data Target blanch ref HTTP prefer Mgr trust arc Com peed discipline ad neonate types neonate link text interest vase AD legalistically pus data car thumbprint legalistically for each novelist thumbprint novelist link text return thumbprint loaf documents read unction cookies set cookie nonstandard remove class standardization pothead LOGO lats types kidding displays none imports"
